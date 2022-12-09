@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Context } from "../../context/LangContext";
+import { Context } from "../../context/langContext";
 import "./Contenu.css";
 import data from "../../assets/data.js";
 
